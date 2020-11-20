@@ -1,5 +1,5 @@
 #Modificado por mau en por lab https://docs.microsoft.com/es-es/learn/modules/create-a-build-pipeline/6-create-the-pipeline en
-# la branchbuild-pipeline
+# la branchbuild-pipeline !!!
 trigger:
 - '*'
 
